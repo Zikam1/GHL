@@ -3,12 +3,12 @@
     <div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
 
       <!-- LEFT: BRAND + POSITIONING -->
-      <div class="flex flex-col leading-tight">
+      <NuxtLink to="/" class="flex flex-col leading-tight">
         <h1 class="text-lg md:text-xl font-semibold text-green-700">
           Aku.I
         </h1>
       
-      </div>
+      </NuxtLink>
 
       <!-- RIGHT: TRUST + CTA -->
       <div class="flex items-center gap-4">

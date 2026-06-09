@@ -6,7 +6,8 @@
       <div class="bg-gradient-to-r from-green-50 to-white border border-green-100 rounded-3xl p-10 text-center shadow-sm">
 
         <h2 class="text-3xl md:text-4xl font-semibold text-gray-900">
-          Ready to get more clients consistently?
+          Ready to get more clients consistently
+          
         </h2>
 
         <p class="mt-4 text-gray-600 max-w-xl mx-auto">
