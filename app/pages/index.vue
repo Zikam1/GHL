@@ -1,9 +1,8 @@
 `
 <template>
   <home />
-  
-  <news />
   <foot />
+  <products />
 
 
 </template>
