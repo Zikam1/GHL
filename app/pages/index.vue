@@ -3,6 +3,7 @@
   <home />
   <foot />
   <products />
+  <portoflio />
 
 
 </template>
